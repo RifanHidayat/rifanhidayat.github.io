@@ -4,8 +4,7 @@ import { Col, Container, Fade, Row } from "reactstrap";
 import FeedbackCard from "../components/FeedbackCard";
 const Feedbacks = () => {
 	return (
-		<section className="section section-lg">
-			<Container>
+		<section className="section section-lg"><Container>
 				<Fade bottom duration={1000} distance="40px">
 					<div className="d-flex p-4">
 						<div>
